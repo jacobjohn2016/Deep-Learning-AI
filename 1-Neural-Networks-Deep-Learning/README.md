@@ -13,9 +13,9 @@
 
 ## Week-2
 
-## Week-2
+## Week-3
 
-## Week-2
+## Week-4
 
 ## Notes
 - [Pdf](/1-Neural-Networks-Deep-Learning/notes.pdf)
