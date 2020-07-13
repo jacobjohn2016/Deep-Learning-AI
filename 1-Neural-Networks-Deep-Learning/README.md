@@ -12,6 +12,7 @@
 ## Week-1
 
 ## Week-2
+- [Assignments](assignments/week2)
 
 ## Week-3
 
