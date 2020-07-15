@@ -17,7 +17,3 @@
 ## Week-3
 
 ## Week-4
-
-## Notes
-- [Pdf](/1-Neural-Networks-Deep-Learning/notes.pdf)
-- [Source](https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng?from_action=save)
