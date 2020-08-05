@@ -18,5 +18,5 @@ This repo contains lectures and assignments of Deeplearning.ai's [Deep Learning 
 | [Course 5](5-Sequence-Models)                       | Sequence Models                                        |
 
 ## Notes
-- [Pdf](/notes.pdf)
-- [Source](https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng?from_action=save)
+- [Infographic](/infographic.pdf)
+- [Notes](/notes.pdf)
